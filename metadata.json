@@ -1,0 +1,7 @@
+{
+  "name": "Raccoon Recycler Kiosk",
+  "description": "An eco-futurist recycling kiosk powered by AI to identify waste categories.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
